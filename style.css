@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+
+
+#Apps{
+width: 100%;
+height: 800px;
+background:linear-gradient(#f5f36c 0%,#f08e05 100%);
+
+}
+
+
+#myCarousel{
+background:linear-gradient(#e6d3ed 0%,#72557d 100%);
+}
+
+
+#chatbot{
+    width: 100%;
+height: 800px;
+background:linear-gradient(#b0e8f5 0%,#20839e 100%);
+}
+
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+.image{
+    width: 400px;
+    height: 430px;
+    transition: transform .2s;
+    
+}
+
+
+.image:hover{
+    transform: scale(0.9);
+}
+
+
+
+#myCarousel p{
+    color: white;
+}
